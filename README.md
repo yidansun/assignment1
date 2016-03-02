@@ -1,2 +1,2 @@
 # assignment1
-CV
+CV: http://yidansun.github.io/assignment1/
