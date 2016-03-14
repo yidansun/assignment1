@@ -7,6 +7,8 @@ Curriculum Vitae
 ## Personal Details:
   * Name: Yidan Sun
   * Address: Tilburg
+  * [Latex assignment2](http://yidansun.github.io/assignment2/mathMathJax.html)
+  * [presentation assignment2](http://yidansun.github.io/assignment2/plain.html#/)
 
 ## Education:
     * 2015-2016	Master Economics, Tilburg University 
