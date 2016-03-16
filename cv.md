@@ -9,6 +9,7 @@ Curriculum Vitae
   * Address: Tilburg
   * [Latex assignment2](http://yidansun.github.io/assignment2/mathMathJax.html)
   * [presentation assignment2](http://yidansun.github.io/assignment2/plain.html#/)
+  * [the pdf of latex with figure](http://yidansun.github.io/assignment2/assignment_6.pdf)
 
 ## Education:
     * 2015-2016	Master Economics, Tilburg University 
