@@ -1,5 +1,5 @@
 # assignment1
-CV: http://yidansun.github.io/assignment1/
+CV: http://yidansun.github.io/assignment1/index.html
 
 assignment2
 latex: http://yidansun.github.io/assignment2/mathMathJax.html
