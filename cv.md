@@ -10,7 +10,8 @@ Curriculum Vitae
   * [Latex assignment2](http://yidansun.github.io/assignment2/mathMathJax.html)
   * [presentation assignment2](http://yidansun.github.io/assignment2/plain.html#/)
   * [the pdf of latex with figure](http://yidansun.github.io/assignment2/assignment_6.pdf)
-
+  * [3rd assignment](http://yidansun.github.io/Third-assignment/assignment3_sun_dornigg.html)
+  
 ## Education:
     * 2015-2016	Master Economics, Tilburg University 
     * 2014-2015  Exchange study abroad at HongKong UST
